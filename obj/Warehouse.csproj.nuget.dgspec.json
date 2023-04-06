@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Training\\Warehouse\\Warehouse.csproj": {}
+    "c:\\Training\\Warehouse\\Warehouse.csproj": {}
   },
   "projects": {
-    "C:\\Training\\Warehouse\\Warehouse.csproj": {
+    "c:\\Training\\Warehouse\\Warehouse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training\\Warehouse\\Warehouse.csproj",
+        "projectUniqueName": "c:\\Training\\Warehouse\\Warehouse.csproj",
         "projectName": "Warehouse",
-        "projectPath": "C:\\Training\\Warehouse\\Warehouse.csproj",
+        "projectPath": "c:\\Training\\Warehouse\\Warehouse.csproj",
         "packagesPath": "C:\\Users\\michar\\.nuget\\packages\\",
-        "outputPath": "C:\\Training\\Warehouse\\obj\\",
+        "outputPath": "c:\\Training\\Warehouse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\michar\\AppData\\Roaming\\NuGet\\NuGet.Config"
